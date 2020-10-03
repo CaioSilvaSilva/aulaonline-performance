@@ -1,0 +1,1 @@
+# Pasta contendo exercício sobre escalabilidade
